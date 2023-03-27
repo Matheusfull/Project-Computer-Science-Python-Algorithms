@@ -6,4 +6,3 @@ def study_schedule(permanence_period, target_time):
     # 3 - aquele índice que conter o horário, target_time, será contabilizado
     # 4 - Coloco essa contalilidade num array
     # 5 - retorno o maior contador
-    
