@@ -20,12 +20,12 @@
 
 </details>
 
-# O que é a aplaicação ?
+# O que é a aplicação ?
 
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
-  Neste projeto pude resolver problemas e otimizar algoritmos desenvolvendo a sua capacidade de implementar soluções para os mais diversos problemas do dia a dia!
+  Neste projeto pude resolver problemas e otimizar algoritmos desenvolvendo a minha capacidade de implementar soluções para os mais diversos problemas do dia a dia!
 </details>
 
 
